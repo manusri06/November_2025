@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/manusri06/November_2025/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/manusri06/November_2025/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/manusri06/November_2025/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/manusri06/November_2025/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/manusri06/November_2025/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/manusri06/November_2025/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/manusri06/November_2025/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/manusri06/November_2025/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/manusri06/November_2025/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/manusri06/November_2025/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
