@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/manusri06/November_2025/tree/master/0387-first-unique-character-in-a-string) |
 | [1813-maximum-erasure-value](https://github.com/manusri06/November_2025/tree/master/1813-maximum-erasure-value) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/manusri06/November_2025/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2487-optimal-partition-of-string](https://github.com/manusri06/November_2025/tree/master/2487-optimal-partition-of-string) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/manusri06/November_2025/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/manusri06/November_2025/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/manusri06/November_2025/tree/master/0387-first-unique-character-in-a-string) |
+| [2487-optimal-partition-of-string](https://github.com/manusri06/November_2025/tree/master/2487-optimal-partition-of-string) |
 ## Queue
 |  |
 | ------- |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/manusri06/November_2025/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1813-maximum-erasure-value](https://github.com/manusri06/November_2025/tree/master/1813-maximum-erasure-value) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/manusri06/November_2025/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+## Greedy
+|  |
+| ------- |
+| [2487-optimal-partition-of-string](https://github.com/manusri06/November_2025/tree/master/2487-optimal-partition-of-string) |
 <!---LeetCode Topics End-->
