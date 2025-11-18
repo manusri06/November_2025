@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/manusri06/November_2025/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/manusri06/November_2025/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/manusri06/November_2025/tree/master/0387-first-unique-character-in-a-string) |
+| [0443-string-compression](https://github.com/manusri06/November_2025/tree/master/0443-string-compression) |
 | [2487-optimal-partition-of-string](https://github.com/manusri06/November_2025/tree/master/2487-optimal-partition-of-string) |
 ## Queue
 |  |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2487-optimal-partition-of-string](https://github.com/manusri06/November_2025/tree/master/2487-optimal-partition-of-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/manusri06/November_2025/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
