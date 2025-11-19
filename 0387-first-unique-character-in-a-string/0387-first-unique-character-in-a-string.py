@@ -1,7 +1,12 @@
 class Solution:
     def firstUniqChar(self, s: str) -> int:
-        for i in range(len(s)):
-            if s[i] not in s[:i] and s[i] not in s[i+1:]:
+        freq = {}
+        for ch in s:
+            if ch not in freq:
+                freq[ch] = 0
+            freq[ch]+=1
+        for i,j in enumerate(s):
+            if freq[j] == 1:
                 return i
 
         return -1
